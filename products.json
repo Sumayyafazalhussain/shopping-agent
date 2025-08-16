@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p1",
+    "name": "White T-Shirt",
+    "price": 12.99,
+    "image": "https://i.pinimg.com/736x/bd/54/d8/bd54d82d096f1b665237ee48bd393fac.jpg",
+    "thumb": "https://i.pinimg.com/150x150/bd/54/d8/bd54d82d096f1b665237ee48bd393fac.jpg",
+    "desc": "Soft cotton tee for casual wear.",
+    "category": "men",
+    "tags": ["shirt", "tshirt", "casual"]
+  },
+  {
+    "id": "p2",
+    "name": "Blue Jeans",
+    "price": 29.99,
+    "image": "https://i.pinimg.com/736x/2c/7e/d0/2c7ed0f61cb4ff3254428a7feebe8510.jpg",
+    "thumb": "https://i.pinimg.com/150x150/2c/7e/d0/2c7ed0f61cb4ff3254428a7feebe8510.jpg",
+    "desc": "Slim fit blue denim jeans.",
+    "category": "men",
+    "tags": ["jeans", "denim"]
+  },
+  {
+    "id": "p3",
+    "name": "Sneakers",
+    "price": 49.99,
+    "image": "https://i.pinimg.com/1200x/69/2d/bb/692dbb75e78309a756bff5587229d316.jpg",
+    "thumb": "https://i.pinimg.com/150x150/69/2d/bb/692dbb75e78309a756bff5587229d316.jpg",
+    "desc": "Comfortable sneakers for everyday use.",
+    "category": "unisex",
+    "tags": ["shoes", "sneakers"]
+  },
+  {
+    "id": "p4",
+    "name": "Red Hoodie",
+    "price": 35.5,
+    "image": "https://i.pinimg.com/1200x/9b/07/64/9b0764ef501c63b88e4f657f5739a062.jpg",
+    "thumb": "https://i.pinimg.com/150x150/9b/07/64/9b0764ef501c63b88e4f657f5739a062.jpg",
+    "desc": "Cozy fleece hoodie in red.",
+    "category": "women",
+    "tags": ["hoodie", "sweatshirt"]
+  },
+  {
+    "id": "p5",
+    "name": "Black Leather Jacket",
+    "price": 89.99,
+    "image": "https://i.pinimg.com/736x/ef/c7/c7/efc7c780e751968ef3f7d3922dea87e8.jpg",
+    "thumb": "https://i.pinimg.com/150x150/ef/c7/c7/efc7c780e751968ef3f7d3922dea87e8.jpg",
+    "desc": "Stylish black leather biker jacket.",
+    "category": "women",
+    "tags": ["jacket", "leather"]
+  }
+]

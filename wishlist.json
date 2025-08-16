@@ -1,0 +1,22 @@
+[
+  {
+    "id": "p3",
+    "name": "Sneakers",
+    "price": 49.99
+  },
+  {
+    "id": "p2",
+    "name": "Blue Jeans",
+    "price": 29.99
+  },
+  {
+    "id": "p1",
+    "name": "White T-Shirt",
+    "price": 12.99
+  },
+  {
+    "id": "p5",
+    "name": "Black Leather Jacket",
+    "price": 89.99
+  }
+]
